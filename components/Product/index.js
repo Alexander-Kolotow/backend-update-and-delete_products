@@ -18,6 +18,10 @@ export default function Product() {
     return;
   }
 
+
+
+  
+
   return (
     <ProductCard>
       <h2>{data.name}</h2>
